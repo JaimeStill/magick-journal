@@ -30,7 +30,7 @@ h1 a:visited {
   margin-right: auto;
   max-width: 800px;
   padding: 24px 12px;
-  height: 100vh;
+  height: 100%;
 }
 
 .content header {
