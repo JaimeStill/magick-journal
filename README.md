@@ -1,99 +1,42 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's blog starter
-</h1>
+https://high-magick.com
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+# Welcome!
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+My name is Jaime, and I recently fell into studying and practicing high magick. Coming from someone raised in the Lutheran church in Texas, I'm aware of how bizarre that may sound, but if life has taught me anything, it's that our parents weren't right about everything, and you have to look beyond the surface of something to discover what it is truly about. 
 
-## 🚀 Quick start
+It all started when I watched [Damien Echols'](https://damienechols.com/) episode of [The Midnight Gospel](http://www.duncantrussell.com/midnightgospel-damienechols). Looking back, I could not tell you specifically what spoke to me about that episode, I just knew I had to look more into who Damien Echols is and the magick that he has dedicated his life to.
 
-1.  **Create a Gatsby site.**
+## Book List
 
-    Use the Gatsby CLI to create a new site, specifying the blog starter.
-
-    ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
-    ```
-
-1.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-blog-starter/
-    gatsby develop
-    ```
-
-1.  **Open the source code and start editing!**
-
-    Your site is now running at `http://localhost:8000`!
-
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
-
-    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
-## 🧐 What's inside?
-
-A quick look at the top-level files and directories you'll see in a Gatsby project.
-
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package-lock.json
-    ├── package.json
-    └── README.md
-
-1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
-
-2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
-
-3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
-
-4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
-
-5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
-
-6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
-
-7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
-
-8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
-
-9.  **`LICENSE`**: This Gatsby starter is licensed under the 0BSD license. This means that you can see this file as a placeholder and replace it with your own license.
-
-10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
-
-11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
-
-12. **`README.md`**: A text file containing useful reference information about your project.
-
-## 🎓 Learning Gatsby
-
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
-
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-blog)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
+1. [Modern Magick: Twelve Lessons in the High Magickal Arts](https://www.amazon.com/Modern-Magick-Twelve-Lessons-Magickal/dp/0738715786) by Donald Michael Kraig
+    * Purchased
+2. [Learning Ritual Magic: Fundamental Theory and Practice for the Solitary Apprentice](https://www.amazon.com/Learning-Ritual-Magic-Fundamental-Apprentice/dp/1578633184) by John Michael Greer
+    * Purchased
+3. [Monsters: An Investigator's Guide to Magical Beings](https://www.amazon.com/Monsters-Investigators-Guide-Magical-Beings/dp/0738700509) by John Michael Greer
+4. [Encyclopedia of Natural Magick](https://www.amazon.com/Encyclopedia-Natural-Magic-Michael-Greer/dp/0738706744) by John Michael Greer
+5. [Simplified Qabala Magic](https://www.amazon.com/Simplified-Qabala-Andrews-29-May-2003-Paperback/dp/B012HTM694) by Ted Andrews
+6. [The Healer's Manual: A Beginner's Guide to Energy Healing for Yourself and Others](https://www.amazon.com/Healers-Manual-Beginners-Yourself-Llewellyns/dp/0875420079) by Ted Andrews
+7. [Chi Gung: Chinese Healing, Energy and Natural Magick](https://www.amazon.com/Chi-Gung-Chinese-Healing-Natural/dp/1567181139) by L.V. Carnie
+8. [Angels: Companions in Magick](https://www.amazon.com/Angels-Companions-Magick-Silver-RavenWolf/dp/1567187242) by Silver Ravenwolf
+9. [The Power of Now: A Guide to Spiritual Enlightenment](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808) by Eckhart Tolle
+10. [Initiation into Hermetics](https://www.amazon.com/Initiation-into-Hermetics-Franz-Bardon/dp/1885928122) by Franz Bardon
+11. [The Golden Dawn](https://www.amazon.com/dp/0738743992) by Israel Regardie
+12. [The Middle Pillar](https://www.amazon.com/Middle-Pillar-Israel-Regardie/dp/1561845515) by Israel Regardie
+13. [A Garden of Pomegranates: An Outline of the Qabalah](https://www.amazon.com/Garden-Pomegranates-Outline-Qabalah/dp/1561845523) by Israel Regardie
+14. [Healing Energy, Prayer, and Relaxation](https://www.amazon.com/Healing-Energy-Prayer-Relaxation-Regardie/dp/1561841838) by Israel Regardie
+15. [78 Degrees of Wisdom: A Tarot Journey to Self-Awareness](https://www.amazon.com/Seventy-Eight-Degrees-Wisdom-Journey-Self-Awareness/dp/1578636655) by Rachael Pollock
+16. [The Book of the Law](https://www.amazon.com/Book-Law-Aleister-Crowley/dp/0877283346) by Aleister Crowley
+17. [777 and Other Qabalistic Writings of Aleister Crowley: Including Gematria & Sepher Sephiroth](https://www.amazon.com/Other-Qabalistic-Writings-Aleister-Crowley/dp/0877286701) by Aleister Crowley
+18. [Magick in Theory and Practice](https://www.amazon.com/Magick-Theory-Practice-Aleister-Crowley/dp/1705459137) by Aleister Crowley
+19. [Liber Null & Psychonaut: An Introduction to Chaos Magic](https://www.amazon.com/Liber-Null-Psychonaut-Introduction-Chaos/dp/0877286396) by Peter J. Carroll
+20. [Promethea Book 1](https://www.amazon.com/Promethea-20th-Anniversary-Deluxe-Book/dp/1401288669) by Alan Moore
+21. [Promethea Book 2](https://www.amazon.com/Promethea-Deluxe-Book-Alan-Moore/dp/1401295452) by Alan Moore
+22. [Promethea Book 3](https://www.amazon.com/Promethea-20th-Anniversary-Deluxe-Three/dp/1779502265) by Alan Moore
+23. [High Magick](https://www.amazon.com/High-Magick-Guide-Spiritual-Practices/dp/1683641345) by Damien Echols
+    * Kindle Edition Purchased - Will purchase physical copy at this point
+24. [Angels & Archangels: A Magician's Guide](https://www.amazon.com/Angels-Archangels-Western-Path-Enlightenment/dp/1683643267) by Damien Echols
+    * Kindle Edition Purchased - Will purchase physical copy at this point
+25. [The Kybalion](https://www.amazon.com/Kybalion-Centenary-Three-Initiates/dp/0143131680)
+    * Purchased
+24. [Abramelin](https://www.amazon.com/Abraham-von-Worms/dp/0892542144)
+25. [The Goetia](https://www.amazon.com/Goetia-Solomon-Lemegeton-Clavicula-Salomonis/dp/087728847X)
