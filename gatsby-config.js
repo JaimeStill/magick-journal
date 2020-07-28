@@ -3,7 +3,7 @@ module.exports = {
     title: `Magick Journal`,
     author: `Jaime Still`,
     description: `A magick journal capturing ritual and dream entries.`,
-    siteUrl: `https://github.com/JaimeStill/magick-journal`
+    siteUrl: `https://magick-journal.com`
   },
   plugins: [
     {
@@ -69,6 +69,12 @@ module.exports = {
         theme_color: `#d20000`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`
+      }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `UA-173938440-1`
       }
     },
     `gatsby-plugin-react-helmet`,
