@@ -1,0 +1,26 @@
+.backdrop {
+  background-color: #f7f7f6;
+  border-radius: 4px;
+  padding: 16px;
+  margin: 8px;
+}
+
+.backdrop h2 {
+  margin-bottom: 8px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.header {
+  margin: 12px 0;
+}
+
+.description,
+.footer {
+  margin: 18px 0 0;
+}
