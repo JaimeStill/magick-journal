@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
   const title = `${data.site.siteMetadata.title} - ${data.site.siteMetadata.author}`
 
   const header = (
-    <h1>
+    <h1 class={styles.heading}>
       <Link to={`/`}>
         {title}
       </Link>
