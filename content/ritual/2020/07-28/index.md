@@ -3,10 +3,10 @@ title: July 28, 2020
 description: 'Captured ritual experiences'
 date: '2020-07-28T19:00Z'
 moon: 'Waxing Gibbous'
-weather: 'Hot, Muggy, Clear Skies'
+weather: 'Hot, Muggy, Clear Skies, Evening Storm Brewing'
 emotions: 'Focused, Motivated'
 physicalCondition: 'Awake, Alert, Healthy'
-rituals: 'Solar FF'
+rituals: 'SoFF, WM, RE, LuFF'
 performance: 8
 revisited: false
 published: true
@@ -27,3 +27,15 @@ Term | Pronunciation | Translation | Color | Representation
 `YHVH (Yehowah) Eloah Va Daath` | yay-ho-wah el-oh-ah va da-ath | Of Knowledge and Wisdom | Gold | Noonday Sun / Conscious Mind
 `Shaddai El Chai` | shad-eye el kai | The Almighty | Purple | Subconscious Mind
 `Adonai Ha Aretz` | ah-don-eye ha ah-retz | Lord of the Earth | Black | Physical Body
+
+# Walking Meditation
+
+I spent about an hour in my backyard, aimlessly walking and soaking up the energy of dusk. The past two days, I have been pouring myself into work, and I realized that I just needed to disconnect from it all and recharge the batteries. Working a job, studying and practicing magick, and being devoted to family is extremely time consuming, but each aspect is extremely important. In addition, I still need to take time for myself and be immersed in the outdoors.
+
+# Raising Energy
+
+I'm going to start raising and transferring energy into a single item twice a day at this point. Not just for the practice, but because it is powerful. I charged a particular item with the intent of bringing peace and relaxation, and that is exactly what I got.
+
+# Lunar FourFold Breath
+
+Tonight I felt like I was a lot to handle mentally. It was really hard to get to meditation, and my mind was just scattering a million directions. It was like I had to wrestle myself into submission, and finally once I got there, all I could do was just bask in the stillness. I was sitting cross-legged in a calm body of water that expanded in every direction infinitely. The only thing to give me indication that I was anywhere to begin was was the bright moon casting a single massive beam of reflective light across the water and into my body. The only thing it allowed of me was to rest and feel its energy.
