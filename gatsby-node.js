@@ -3,7 +3,6 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 
 const COLLECTIONS = [
   'ritual',
-  'dream',
   'blog'
 ]
 

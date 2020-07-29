@@ -5,12 +5,16 @@ date: '2020-07-28T19:00Z'
 moon: 'Waxing Gibbous'
 weather: 'Hot, Muggy, Clear Skies, Evening Storm Brewing'
 emotions: 'Focused, Motivated'
-physicalCondition: 'Awake, Alert, Healthy'
+physicalCondition: 'Alert, Healthy'
 rituals: 'SoFF, WM, RE, LuFF'
 performance: 8
 revisited: false
 published: true
 ---
+
+# Dreams
+
+I did not recall any dreams when I awoke. It seems that the frequency with which I remember dreams has tapered off drastically over the last few years. Dreams are definitely something I want to get back in touch with, because I feel they can have great insights.
 
 # Solar FourFold Breath
 

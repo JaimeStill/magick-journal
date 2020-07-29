@@ -26,7 +26,6 @@ const Layout = ({ children }) => {
   const nav = (
     <React.Fragment>
       <Link to={'/ritual/'}>Rituals</Link>
-      <Link to={'/dream/'}>Dreams</Link>
       <Link to={'/blog/'}>Blog</Link>
       <Link to={'/blog/2020/lighting-the-way-ahead/'}>About</Link>
     </React.Fragment>
