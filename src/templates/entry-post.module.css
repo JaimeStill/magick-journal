@@ -53,12 +53,13 @@
 }
 
 .markdown {
-  padding-bottom: 8px;
+  padding-bottom: 4px;
 }
 
 table {
   border-collapse: collapse;
   width: 100%;
+  margin-bottom: 16px;
 }
 
 th, td {
