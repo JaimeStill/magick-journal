@@ -34,7 +34,7 @@ const EntryTemplate = ({ data, pageContext, location }) => {
           </h1>
           <section className={styles.meta}>
             <small>{date}</small>
-            <small>Time to Read: {post.timeToRead} {post.timeToRead > 1 ? 'minutes' : 'minute'}</small>
+            <small>Time to Read: {post.timeToRead} {post.timeToRead > 1 ? 'mins.' : 'min.'}</small>
           </section>
         </header>
         {(

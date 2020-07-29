@@ -27,10 +27,7 @@ const Entry = ({ entry }) => {
         </h2>
         <section className={`${styles.flex} ${styles.header}`}>
           <small>{date}</small>
-          {performance &&
-            <small>Performance: {performance} / 10</small>
-          }
-          <small>Time to Read: {entry.timeToRead} {entry.timeToRead > 1 ? 'minutes' : 'minute'}</small>
+          <small>Time to Read: {entry.timeToRead} {entry.timeToRead > 1 ? 'mins.' : 'min.'}</small>
         </section>
       </header>
       <section>
@@ -39,16 +36,27 @@ const Entry = ({ entry }) => {
             __html: description || entry.excerpt
           }} />
       </section>
-      {(collection || moon || rituals) &&
-        <footer className={`${styles.flex} ${styles.footer}`}>
-          {collection &&
-            <small>{collection}</small>
+      {(collection || moon || rituals || performance) &&
+        <footer>
+          {(collection || performance) &&
+            <section className={`${styles.flex} ${styles.footer}`}>
+              {collection &&
+                <small>{collection}</small>
+              }
+              {performance &&
+                <small>Performance: {performance} / 10</small>
+              }
+            </section>
           }
-          {moon &&
-            <small>Moon Phase: {moon}</small>
-          }
-          {rituals &&
-            <small>Rituals: {rituals}</small>
+          {(moon || rituals) &&
+            <section className={`${styles.flex} ${styles.footer}`}>
+              {moon &&
+                <small>Moon: {moon}</small>
+              }
+              {rituals &&
+                <small>Rituals: {rituals}</small>
+              }
+            </section>
           }
         </footer>
       }

@@ -9,6 +9,8 @@
 h1 {
   margin-bottom: 18px;
   margin-top: 0;
+  text-align: center;
+  line-height: 2.5rem;
 }
 
 h1 a,

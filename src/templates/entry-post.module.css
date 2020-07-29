@@ -13,9 +13,9 @@
 
 .grid {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   padding: 8px;
   margin: 18px 8px;
   background-color: #f7f7f6;
@@ -32,10 +32,12 @@
 
 .grid h4 {
   margin-bottom: 8px;
+  text-align: center;
 }
 
 .grid p {
   margin: 0;
+  text-align: center;
 }
 
 .rule {

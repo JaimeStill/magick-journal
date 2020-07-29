@@ -20,7 +20,15 @@
   margin: 12px 0;
 }
 
-.description,
+.description {
+  margin: 18px 0;
+}
+
 .footer {
-  margin: 18px 0 0;
+  margin: 9px 0 0;
+}
+
+.backdrop footer {
+  margin: 0;
+  padding: 0;
 }
