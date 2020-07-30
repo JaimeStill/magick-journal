@@ -2,7 +2,7 @@
 title: Modern Magick - Lesson One Review
 date: '2020-07-30T13:00Z'
 description: Modern Magick review questions for lesson one
-published: true
+published: false
 ---
 
 # Modern Magick - Lesson One Review
