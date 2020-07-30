@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 import EntryList from '../components/entry-list'
+import Status from '../components/status'
 
 const AppIndex = ({ data, location }) => {
   const entries = data.allMarkdownRemark.edges
@@ -11,6 +12,7 @@ const AppIndex = ({ data, location }) => {
   return (
     <Layout location={location}>
       <SEO title="Home" />
+      <Status />
       <EntryList entries={entries} />
     </Layout>
   )
