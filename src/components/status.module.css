@@ -1,12 +1,14 @@
-p {
-  margin: 0;
-}
+
 
 .status {
   padding: 18px;
   margin: 18px 8px 0;
   background-color: #f7f7f6;
   border-radius: 4px;
+}
+
+.status p {
+  margin: 0;
 }
 
 .heading {

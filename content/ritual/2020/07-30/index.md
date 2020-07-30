@@ -26,6 +26,6 @@ My bad mood is definitely affecting my ability to raise and control energy. Ther
 
 # Middle Pillar
 
-When visualizing the flow of energy, I detached from my body and, in relation to this new perspective, it was as tall as a mountain. While I could still feel the flow of energy in this detached state, I focused on each energy sphere; bathing in its explosive radiance when vibrating the mantras. Traveling down from sphere to sphere felt like being gently lowered as if a current of pressure were holding me in place. This felt similar to the notion of riding drafts of air when paragliding.
+When visualizing the flow of energy, I detached from my body and, in relation to this new perspective, it was as tall as a mountain. While I could still feel the flow of energy in this detached state, I focused on each energy sphere; bathing in its explosive radiance when vibrating the mantras. Traveling down from sphere to sphere felt like being gently lowered as if a current of pressure were holding me in place. This felt similar to the notion of riding drafts of air when paragliding.  
 
 When I connected to the Earth's energy sphere, this current propelled me upward in a spiral around my body until I reached the radiant white sphere, then gently lowered me back down to the glowing black sphere at my feet. After ending the ritual, all of the negativity from this morning dissolved, and I feel calm and focused.
