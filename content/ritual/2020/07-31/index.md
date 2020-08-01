@@ -6,7 +6,7 @@ moon: 'Waxing Gibbous'
 weather: 'Partly Cloudy, Muggy, Warm'
 emotions: 'Happy, Peaceful, Empowered, Sharp'
 physicalCondition: 'Alert, Healthy'
-rituals: 'SoFF, RE, MP'
+rituals: 'SoFF, RE, MP, LunarFF'
 performance: 7
 revisited: false
 published: true
@@ -35,3 +35,7 @@ Whenever I connected to the Earth's energy, my whole aura burst (this is the bes
 ![opal](./opal.jpg)
 
 I felt the energy flow in and out of my hands, and they steadily rose until they were at chest level. I gave a thunderous clap to end the ritual. In this moment, I feel incredibly clear / sharp. I feel prepared to tackle anything.
+
+# Lunar FourFold Breath
+
+Tonight, I decided to conduct the Lunar FF from my hammock. It ended up being a really relaxing, enjoyable meditation. There wasn't much else to it than that. I spent a lot of time apart from that meditation staring out into the stars and just processing some of the more challenging things that are happening in my life with work. I'm sure that I'm doing what I was put here to do, I just didn't realize it would be such a difficult journey. The things we're doing are already difficult enough as it is, especially in the context of the world today, but the added layers of unnecessary difficulty can make it feel hopeless at times. I'm just really glad I have great friends who can lift me out of those mental funks and point my mind back in the right direction.
