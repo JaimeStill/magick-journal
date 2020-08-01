@@ -28,7 +28,7 @@ const Status = () => (
         <p>Lunar FF</p>
       </section>
       <section>
-        <p><strong>3x 5 - 10 Mins.</strong></p>
+        <p><strong>3x 5-10 Mins.</strong></p>
         <p>Energy Work</p>
       </section>
       <p className={styles.label}>
@@ -43,7 +43,7 @@ const Status = () => (
         <p>Middle Pillar</p>
       </section>
       <section>
-        <p><strong>3x 5 - 10 Mins.</strong></p>
+        <p><strong>3x 5-10 Mins.</strong></p>
         <p>Energy Work</p>
       </section>
     </section>
