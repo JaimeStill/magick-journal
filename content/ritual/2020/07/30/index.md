@@ -34,7 +34,7 @@ When I connected to the Earth's energy sphere, this current propelled me upward 
 
 I tried something a little different tonight and performed the meditation to the song *Pneuma* by the band [Tool](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8?si=dgIBgJQ8S6G3OaxB_VrjiA).
 
-<iframe src="https://open.spotify.com/embed/track/03sEzk1VyrUZSgyhoQR0LZ" width="300" height="32" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/03sEzk1VyrUZSgyhoQR0LZ" width="120" height="64" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 When I laid down, I settled right into a peaceful meditation. The middle pillar from lunchtime really set me into a centered state of calm.The lunar energy tonight brought me back to nights in the Army smoking cigarettes out under the Milky Way. Knowing what I know now, the mystical magick of those moments makes a lot more sense. It also leads me to an understanding of how magick, in the subconscious sense, helped me navigate and survive 8 years of that chaos. I was fortunate to have not been sent to the Middle East, though at the time I didn't see it that way. As much as I wanted to go at the time, the Army never sent me. For a long time, I was very insecure about this because I felt that I wasn't able to do my part where so many others had. I've come to appreciate the aspects of the service I was (and in many regards, am still) engaged in. It was in this moment reflecting on these times that the song reached its final spoken verse:
 
