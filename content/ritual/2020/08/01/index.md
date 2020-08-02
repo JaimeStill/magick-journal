@@ -45,10 +45,10 @@ My first ever interaction with the Tarot. I drew `19 - The Sun`.
 * Present as a being of both masculine and feminine form. Two bodies presented by one consciousness.
 
 * **ﬧ** - Hebrew Resh depicted in the bottom-left.
-  * Pictograph represents Head of a man.
-  * Means Head, first, top beginning
-    * Interesting as this is my first venture into the Tarot.
-    * Could also be indicative of the first man, given the depiction of Eden?
+    * Pictograph represents Head of a man.
+    * Means Head, first, top beginning
+        * Interesting as this is my first venture into the Tarot.
+        * Could also be indicative of the first man, given the depiction of Eden?
 
 # Raising Energy
 
