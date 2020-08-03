@@ -22,7 +22,7 @@ My meditation this morning was relaxing and enjoyable. No strong visualization t
 
 # Raising Energy
 
-Today, I wanted to see if I could raise energy without having having to first generate friction. I simply placed my hands 6 inches apart, and felt the push and pull of energy flowing between my palms. Tensening up my hands and pulling them apart, I could feel the energy stretching as if I were pulling apart dough. My minds eye envisioned a need for courage and wisdom, so I charged my energy with these intentions, and immersed it into a mango wood disk that I have on my desk.
+Today, I wanted to see if I could raise energy without having having to first generate friction. I simply placed my hands 6 inches apart, and felt the push and pull of energy flowing between my palms. Tensing up my hands and pulling them apart, I could feel the energy stretching as if I were pulling apart dough. My minds eye envisioned a need for courage and wisdom, so I charged my energy with these intentions, and immersed it into a mango wood disk that I have on my desk.
 
 # Middle Pillar
 

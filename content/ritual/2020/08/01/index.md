@@ -18,7 +18,7 @@ I was in a clean, modern village preparing for some abstract, important event. E
 
 # Seasonal FourFold Breath
 
-During todays Seasonal FF, I was laying under a grove of trees, watching their transformation synchronized to the rhythm of by breaths. WIth each passing of seasons, I grew more and mroe restless until I envisioned myself in action in each season. In spring, I was climbing rocks on a hillside. In summer, I was playing at a river bank, being refreshed by the cool of the water. In autumn, I was hiking trails under a blazing canopy of trees. In winter, I was gathering firewood in silent, magical woods blanketed with snow.
+During todays Seasonal FF, I was laying under a grove of trees, watching their transformation synchronized to the rhythm of by breaths. WIth each passing of seasons, I grew more and more restless until I envisioned myself in action in each season. In spring, I was climbing rocks on a hillside. In summer, I was playing at a river bank, being refreshed by the cool of the water. In autumn, I was hiking trails under a blazing canopy of trees. In winter, I was gathering firewood in silent, magical woods blanketed with snow.
 
 When I meditated on this following the ritual, I was saddened by the notion that these days, it's hard for people to even engage with the Earth anymore. Everything is either private property, or paid public land with hours, restrictions, crowds, etc. that make personal engagement near impossible. There need to be more public lands where people have the space and freedom to engage with life.
 
