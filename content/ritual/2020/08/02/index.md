@@ -7,7 +7,7 @@ weather: 'Sunny, Muggy, Hot'
 emotions: 'Tired, Reflective, Cleansed'
 physicalCondition: 'Alert, Healthy'
 rituals: 'MP, RE, TCR'
-performance: 9
+performance: 6
 revisited: false
 published: true
 ---
