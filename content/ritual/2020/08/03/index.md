@@ -2,7 +2,7 @@
 title: 'August 3, 2020'
 description: 'Captured ritual experiences'
 date: '2020-08-03T10:00Z'
-moon: 'Waxing Gibbous'
+moon: 'Full'
 weather: 'Cloudy, Muggy, Warm'
 emotions: 'Happy, Motivated, Energetic'
 physicalCondition: 'Alert, Healthy'
