@@ -31,12 +31,20 @@ Before I started the Middle Pillar today, I didn't know that I would close it by
 ![the-hierophant](./the-hierophant.jpg)
 
 * Mercy and goodness, a person who shows these qualities
-* **ו** - Vahv, Nail
+* **ו** - Vahv, Nail, Red Orange
+
 * ♉ - Taurus, Bull
+
 * Scarlet, gold, and blue dominate coloring
-* The image draws to mind the land of Canaan from the Old Testament.
-* Red and gold wand sits atop a scroll in his lap.
+
+* The image draws to mind the land of Canaan from the Old Testament
+
+* Red and gold wand sits atop a scroll in his lap
+
 * Holding a shepherd staff in the right hand, and a banner in the left
-    * Banner shows a red and blue hexagram overlaid on a golden cross with a white **T** inscribed.
+
+    * Banner shows a red and blue hexagram overlaid on a golden cross with a white **T** inscribed
+
 * Sitting on top of a bull
+
 * Receiving divine light

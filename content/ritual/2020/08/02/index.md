@@ -30,10 +30,12 @@ My energy generation and control after Middle Pillar are outrageously higher tha
 
 ![the-hanged-man](./the-hanged-man.jpg)
 
+* **מ** - Mehm, Water, Deep Blue
+
+* Upside-down triangle symbol literally means Water; Eagle, Snake, Scorpion
+
 * The statue appears to be that envisioned by Nebuchadnezzar in Daniel 2 of the Old Testament.
 
 * Energy vibrates from the statue throughout the whole card
-
-* **מ** - Mem represents water and chaos.
 
     * Perhaps alluding to an oncoming growth through adversity?

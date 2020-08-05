@@ -34,6 +34,14 @@ My first ever interaction with the Tarot. I drew `19 - The Sun`.
 
 ![the-sun](./the-sun.jpg)
 
+* **ﬧ** - Resh, Head, Orange
+    * Pictograph represents Head of a man.
+    * Means Head, first, top beginning
+        * Interesting as this is my first venture into the Tarot.
+        * Could also be indicative of the first man, given the depiction of Eden?
+
+* Bottom right symbol represents the Sun; Lion, Sparrowhawk
+
 * This card precisely calls to mind the vision I saw in the golden sphere in the Middle Pillar ritual today.
 
 * Returning to the original intentions of existence.
@@ -43,12 +51,6 @@ My first ever interaction with the Tarot. I drew `19 - The Sun`.
 * Fulfilled (suns light) and protected (impenetrable wall) in the garden.
 
 * Present as a being of both masculine and feminine form. Two bodies presented by one consciousness.
-
-* **ﬧ** - Hebrew Resh depicted in the bottom-left.
-    * Pictograph represents Head of a man.
-    * Means Head, first, top beginning
-        * Interesting as this is my first venture into the Tarot.
-        * Could also be indicative of the first man, given the depiction of Eden?
 
 # Raising Energy
 

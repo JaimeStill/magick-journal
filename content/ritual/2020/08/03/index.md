@@ -40,9 +40,9 @@ I raised a roughly softball-sized energy ball, and wove into it the intent for m
 
     * Interesting that this would be what represents today's Tarot given what I sought in the above Raising Energy ritual.
 
-* **ﬣ** - He means window
+* **ﬣ** - Heh, Window, Scarlet Red
 
-* Aries / Fire
+* ♈ - Aries, Ram
 
     * Strong representation of Aries in this card, as indicated by:
         * The Ram
