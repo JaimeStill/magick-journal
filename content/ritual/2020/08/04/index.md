@@ -6,7 +6,7 @@ moon: 'Waning Gibbous'
 weather: 'Sunny, Muggy, Hot'
 emotions: 'Happy, Energized, Peaceful'
 physicalCondition: 'Alert, Healthy'
-rituals: 'SoFF, MP, RE'
+rituals: 'SoFF, MP, RE, LuFF'
 performance: 8
 revisited: false
 published: true
