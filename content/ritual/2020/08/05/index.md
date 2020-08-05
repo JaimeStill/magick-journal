@@ -6,7 +6,7 @@ moon: 'Waning Gibbous'
 weather: 'Sunny, Muggy, Hot'
 emotions: 'Happy, Energized, Peaceful'
 physicalCondition: 'Alert, Healthy'
-rituals: 'SoFF'
+rituals: 'SoFF, MP, RE, TCR'
 performance: 6
 revisited: false
 published: true
@@ -19,3 +19,24 @@ I entered into a cycle where an entire lifetime passed over the course of a day,
 # Solar FourFold Breath
 
 Not a lot of visualization in my meditation this morning. Again, more of a sensitivity to the energies flowing around me. I noticed how clean and peaceful the aura is in my home office / ritual room now. It is a very welcoming, safe place for me to be in. I was attempting to reach into an altered consciousness, as experienced in previous rituals. Unfortunately, I ended up relinquishing a bit too much and ended up in a dream state of which I have no recollection.
+
+# Middle Pillar / Raising Energy
+
+Before I started the Middle Pillar today, I didn't know that I would close it by performing the Raising Energy ritual within the Earth energy connection. As the divine light cycled through my energy spheres, all I really experienced was strong energy movement. When I connected to Earth's energy, I just felt this thick surge cycling through me. I decided to try and channel this energy into my hands. The pressure of the energy ball was very high and had a very pure feeling to it. I didn't focus any intention beyond just feeling and controlling the energy shape, intensity, and momentum. I closed the ritual by infusing the energy into my Tarot deck.
+
+# Tarot Contemplation Ritual
+
+`5 - The Hierophant`
+
+![the-hierophant](./the-hierophant.jpg)
+
+* Mercy and goodness, a person who shows these qualities
+* **ו** - Vahv, Nail
+* ♉ - Taurus, Bull
+* Scarlet, gold, and blue dominate coloring
+* The image draws to mind the land of Canaan from the Old Testament.
+* Red and gold wand sits atop a scroll in his lap.
+* Holding a shepherd staff in the right hand, and a banner in the left
+    * Banner shows a red and blue hexagram overlaid on a golden cross with a white **T** inscribed.
+* Sitting on top of a bull
+* Receiving divine light
