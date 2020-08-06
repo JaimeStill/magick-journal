@@ -6,7 +6,7 @@ moon: 'Waning Gibbous'
 weather: 'Sunny, Muggy, Hot'
 emotions: 'Happy, Energized, Peaceful'
 physicalCondition: 'Alert, Healthy'
-rituals: 'SoFF, MP, RE, TCR'
+rituals: 'SoFF, MP, RE, TCR, LuFF'
 performance: 6
 revisited: false
 published: true
@@ -48,3 +48,7 @@ Before I started the Middle Pillar today, I didn't know that I would close it by
 * Sitting on top of a bull
 
 * Receiving divine light
+
+# Lunar FourFold Breath
+
+I think I may be exhausted. I need to pace myself a bit better in my growth, and I believe part of that comes from finding the right degree of involvement. This is an entirely new facet of you. Ease into it. Explore it. Don't burn yourself out in it. The excitement and shininess can tone down, and the true, well-paced work can take over. There will be more thrilling, breakthrough moments of growth and understanding. There will also be moments where you just have to give yourself room to reflect and grow. Consistency and dedication in the right dose. Time to get some rest and let myself refill the well.
