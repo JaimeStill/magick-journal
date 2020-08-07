@@ -6,7 +6,7 @@ moon: 'Waning Gibbous'
 weather: 'Cloudy, Muggy, Hot'
 emotions: 'Relaxed, Happy'
 physicalCondition: 'Alert, Healthy'
-rituals: 'SoFF, TCR'
+rituals: 'SoFF, TCR, MP, CW, PW'
 performance: 9
 revisited: false
 published: true
@@ -49,14 +49,29 @@ My mind felt so at ease during the ritual today. It feels like the break I had l
 * Tower of Babel from the Old Testament
     * Structure built in the land of Shinar (Babylonia) some time after the Deluge. The story of its construction, given in Genesis 11:1-9.
 
-> At that time all mankind spoke a single language. As the population grew and spread eastward, a plain was discovered in the land of Babylon and was soon thickly populated. The people who lived there began to talk about building a great city, with a temple-tower reaching to the skies - a proud, eternal monument to themselves.
->
-> "This will weld us together," they said, "and keep us from scattering all over the world." So they made great piles of hard-burned brick, and collected bitumen to use as mortar.
->
-> But when God came down to see the city and the tower mankind was making, he said, "Look! If they are able to accomplish all this when they have just *begun* to exploit their linguistic and political unity, just think of what they will do later! Nothing will be unattainable for them! Come, let us go down and give them different languages, so that they won't understand each other's words!"
->
-> So, in that way, God scattered them all over the earth; and that ended the building of the city. That is why the city was called Babel (meaning "confusion"), because it was there that Jehovah confused them by giving them many languages, thus widely scattering them across the face of the earth.
->
-> *Genesis 11:1-9*
-
 * This card gives me a great sense of unease. It gives me the sense that I should be very careful in my communications and not try to shake things up too much.
+
+I wanted to revisit this contemplation, because it left me with a great deal of uncertainty as to the accuracy of my initial feelings. For the first time, I wanted to take in an [external perspective](https://labyrinthos.co/blogs/tarot-card-meanings-list/the-tower-meaning-major-arcana-tarot-card-meanings) regarding this card. This is what really hit home and made this a much more meaningful draw for today:
+
+> The Tower represents change in the most radical and momentous sense. It is for this reason that the card itself visually looks so unnerving. But it doesn't necessarily have to be truly frightening or ominous. Because at the heart of this card, its message is foundational, groundbreaking change.
+>
+> The kind of event that the Tower card marks does not have to be something terrible, like a disaster or a great loss. Change itself is a normal part of life that one has to embrace. But it can sometimes strike fear, for it means that we must abandon the truths that we have known prior to this event. The old ways are no longer useful, and you must find another set of beliefs, values and processes to take their place.
+
+Contemplating the Tower in this light, it makes absolutely more sense. To say that I've been able to completely rid myself of internal bias or expectation since the start of my journey in magick would be a false statement. It's extremely hard to uproot years of religious indoctrination. Particularly where an eternity being tortured is concerned. However, I need to recognize this for what it really is: fear on the basis of a religion manipulated to control minds.
+
+As my deeper research suggests, "The old ways are no longer useful, and you must find another set of beliefs, values and processes to take their place." To that end, I will re-align my approach and thoughts to this ultimate boundary: 
+
+* If something is pure and good in nature, I will adopt it.
+* If something is gray but leads to good, I will adopt it.
+* If something is gray but leads to evil, I will refuse it.
+* If something is wrong and evil in nature, I will refuse it.
+
+Apart from the above, there will be no more expectation, and I will be performing the Charging Water ritual again in just a moment to cement these intentions into my psyche.
+
+# Middle Pillar, Charging Water, and Programming Water
+
+Given the illumination from my revisiting of the Tarot Contemplation Ritual above, I decided to perform a more involved ritual to really influence deep transformation and to signify my commitment to the path of high magick. I started by performing a full Middle Pillar while holding the glass of water. At the activation and vibration of each energy sphere, the visualization and flow of energy was very strong and stable, and I made sure to take my time allowing Divinity to flow down the pillar.
+
+When I connected to the Earth's energy, I performed a FourFold breath facing North. I then performed a left face (in military drill and ceremony, this is a way to smoothly transition the direction your body is facing 90 degrees to the left) and performed a FourFold breath facing East. Another left face, and a FourFold breath facing South. Another left face, and a FourFold breath facing West. Another left face, and I performed 5 iterations of inhaling energy into the golden sphere from Divinity above and Earth below, then exhaling the energy out of the golden sphere, through my palms, and into the glass of water.
+
+I took a deep breath and visualized the golden energy radiating in the glass between my hands then exhaled. I took another deep breath and vibrated the thought-form "May the light protect, guide, and illuminate me on my journey through life and on the path of high magick." I took another deep breath and in a loud, resounding voice vibrated **Yeshua**. I then sipped all of the water from the glass and as I exhaled, visualized the energy filling every crevice of my being. I ended my ritual with a vibration of **Amen** and a clapping of hands.
