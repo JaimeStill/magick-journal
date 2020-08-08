@@ -6,7 +6,7 @@ moon: 'Waning Gibbous'
 weather: 'Cloudy, Muggy, Hot'
 emotions: 'Relaxed, Happy'
 physicalCondition: 'Alert, Healthy'
-rituals: 'SoFF, TCR, MP, CW, PW'
+rituals: 'SoFF, TCR, MP, CW, PW, LuFF'
 performance: 9
 revisited: false
 published: true
@@ -75,3 +75,11 @@ Given the illumination from my revisiting of the Tarot Contemplation Ritual abov
 When I connected to the Earth's energy, I performed a FourFold breath facing North. I then performed a left face (in military drill and ceremony, this is a way to smoothly transition the direction your body is facing 90 degrees to the left) and performed a FourFold breath facing East. Another left face, and a FourFold breath facing South. Another left face, and a FourFold breath facing West. Another left face, and I performed 5 iterations of inhaling energy into the golden sphere from Divinity above and Earth below, then exhaling the energy out of the golden sphere, through my palms, and into the glass of water.
 
 I took a deep breath and visualized the golden energy radiating in the glass between my hands then exhaled. I took another deep breath and vibrated the thought-form "May the light protect, guide, and illuminate me on my journey through life and on the path of high magick." I took another deep breath and in a loud, resounding voice vibrated **Yeshua**. I then sipped all of the water from the glass and as I exhaled, visualized the energy filling every crevice of my being. I ended my ritual with a vibration of **Amen** and a clapping of hands.
+
+# Lunar FourFold Breath
+
+The waning gibbous has a different vibe to it than the waxing gibbous did. If I had to draw comparisons, I would say the difference is akin to the differences between sativa and indica strains of cannabis. When the moon is coming into its power, the energy feels more mystical and cerebral. In waning, the energy has a more reflective, emotional feeling. Perhaps these cyclical fluctuations are intended to keep the equilibrium of our energies balanced? Whatever the case, I'm thankful for it.
+
+I'm also thankful for all of the growth and enrichment in my life, particularly around a sense of community and family. I'm not as alien as I thought, and I love that I can bond with people of like mind and desire. At the end of my reflection and energy breathing, I built up energy into a lunar ball. Infusing it with healing and power, I sent it out west.
+
+Before I leave, I keep getting this premonition that Yeshua is my HGA. This would be very weird because the name Jesus has always felt so uncomfortable to me, but this energy and magnetism around Yeshua has been creeping around the periphery of my senses. At this point, its just a weird feeling, but more investigation is needed.
