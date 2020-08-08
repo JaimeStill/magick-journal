@@ -4,7 +4,7 @@ description: 'Captured ritual experiences'
 date: '2020-08-08T10:00Z'
 moon: 'Waning Gibbous'
 weather: 'Sunny, Muggy, Hot'
-emotions: 'Relaxed, Happy'
+emotions: 'Relaxed, Happy, Inspired'
 physicalCondition: 'Alert, Healthy'
 rituals: 'SeFF, RE, TCR'
 performance: 9
