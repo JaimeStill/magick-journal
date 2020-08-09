@@ -47,3 +47,13 @@ Immediately following the Seasonal FourFold ritual, I sat at peace, filled with 
 > In this tarot card, you see a woman who calmly holds the jaws of a fully grown lion. Despite the fact that the lion looks menacing and strong, the woman seems to have dominion over it. What is captivating is how gracefully she controls the lion. She is calm and collected, which is representative for being in control and disciplined especially in times of great adversities.
 >
 > When you get the Strength card in an upright manner during your tarot reading, then it shows that you have inner strength and fortitude during moments of danger and distress. It shows that you have the ability to remain calm and strong when your life is going through immense struggle. It also shows that you are a compassionate person and you always have time for other people even if it's at your own expense.
+
+# Notes
+
+I was in the midst of settling into the Lunar FourFold Breath, and I got REALLY close to reaching that state where the body falls asleep, but the mind remains. [Ioanna Gika](https://open.spotify.com/artist/4ctIi0Pt6FzHjDUD7CU2os?si=_GzZA00ATWudGMCG4_slcA) was playing in my mind, and I could feel all of my energy sharply vibrating around me. The vibrations began to match the energy of the music, and I started to see the places composed of this energy. Unfortunately, I think I was just a bit too tired, and ended up completely falling asleep.
+
+Additionally, I've been spending some time getting reacquainted with drawing. The nature of the visualizations I've been having have been so intense, and after being inspired by a good friend, I decided to try to replicate these experiences. Below are representations of the Atomic Middle Pillar (so called for the feeling of energy swarming like electrons), and the place I often find myself when engaged in the Lunar FourFold Breath:
+
+![atomic-middle-pillar](./atomic-middle-pillar.jpg)
+
+![lunar-ff](./lunar-ff.jpg)
