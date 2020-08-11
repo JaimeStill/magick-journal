@@ -23,3 +23,9 @@ I approached Middle Pillar with a heavy heart and a deep sense of unease. Being 
 Today with the first time I intentionally invoked an archangel. I simply asked for Michael to bring protection to our home and our family. While I did not see or hear any confirmation of this invocation, I certainly felt a dramatic shift in the energy of the room as Middle Pillar began. The healing energy of the ritual was so powerful that I didn't have the capacity for visualization. It was sort of like closing your eyes in the shower and just feeling the water stream down your body.
 
 When I connected to the Earth's energy, I generated an energy ball filled with wisdom and courageous intent. I also sealed it with protection from ignorance and folly. When it was about a foot across and powerful, I pressed my palms against the ground and prayed to Yeshua. I prayed that the energy would meet my son with powerful intent, and allow him to find his true path to the glory of the Divine. Thus ended the ritual.
+
+# Notes
+
+On Monday entries, I will not be conducting ritual in the evening. Instead, I will be attending Fellowship of Advancing Magi meetings. The fellowship and experiences developed through these meetings have been instrumental in orienting magick and finding deeper purpose. I would consider this activity as impactful as the Middle Pillar has been for strengthening and cleaning my energy.
+
+Additionally, after the Middle Pillar and Raising Energy ritual from yesterday, the entire family situation I was dealing with yesterday dissolved peacefully and with great love and impact.
