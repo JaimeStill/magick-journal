@@ -6,7 +6,7 @@ moon: 'Waning Gibbous'
 weather: 'Sunny, Muggy, Hot'
 emotions: 'Happy, Focused, Energized'
 physicalCondition: 'Alert, Healthy'
-rituals: 'MP, RE'
+rituals: 'MP, RE, RDFB'
 performance: 9
 revisited: false
 published: true
@@ -33,3 +33,23 @@ My physical body, while still connected to this energy, sat cross-legged and beg
 * The third energy ball: `Adonai send this blessing`
 
 After all of the energy was sent, I closed the ritual with the mantra: `for the glory of your Kingdom. Amen.`
+
+# Radiant Divine Fire Breath
+
+This evening, I engaged in the Radiant Divine Fire Breath guided ritual lead by Damien Echols via his livestream. It was a very powerful experience. Two things I want to remember. The Earth breath is shaped like a square (typical fourfold breathing). The Fire breath is shaped like a triangle:
+
+* Inhale Four Seconds
+* Hold Four Seconds
+* Exhale Four Seconds
+
+There is no pause between Exhale and Inhale.
+
+![golden-temple](./golden-temple.jpg)
+
+During this ritual, my conscious body entered the golden sphere temple again. During the exercise, I filled the golden sphere with the golden energy on the inhale. While holding, I allowed my conscious body to absorb all of the energy, and on the exhale, projected the energy at increasingly larger scales:
+
+* The initial exhales filled the body
+* Subsequent exhales filled the aura
+* Final series of exhales filled the entire room
+
+While I was engaged in this ritual, I had a premonition that was essentially a continuation from my dream last night. What I saw was a complete dissolution of myself from the physical form. In this form, I took all of the knowledge and energy that I've gained over the course of my existence and created my own pocket universe infused with my own realities and intentions. A sort of evolution of reality from the reality I was born into.
