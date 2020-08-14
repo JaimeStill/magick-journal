@@ -1,7 +1,7 @@
 ---
-title: 'August 11, 2020'
+title: 'August 12, 2020'
 description: 'Captured ritual experiences'
-date: '2020-08-11T10:00Z'
+date: '2020-08-12T10:00Z'
 moon: 'Last Quarter'
 weather: 'Sunny, Muggy, Hot'
 emotions: 'Happy, Exhausted'
