@@ -13,38 +13,19 @@ const Status = () => (
     </div>
     <section className={styles.grid}>
       <p className={styles.label}>
-        <strong>Monday - Friday</strong>
+        <strong>Monday - Sunday</strong>
       </p>
       <section>
         <p><strong>07:00</strong></p>
-        <p>Solar FF</p>
+        <p>Breathing Meditation</p>
       </section>
       <section>
-        <p><strong>12:00</strong></p>
-        <p>Middle Pillar</p>
-      </section>
-      <section>
-        <p><strong>21:00</strong></p>
-        <p>Lunar FF</p>
-      </section>
-      <section>
-        <p><strong>3x 5-10 Mins.</strong></p>
-        <p>Energy Work</p>
-      </section>
-      <p className={styles.label}>
-        <strong>Saturday - Sunday</strong>
-      </p>
-      <section>
-        <p><strong>08:00</strong></p>
-        <p>Seasonal FF</p>
+        <p><strong>18:00</strong></p>
+        <p>Full LBRP with Middle Pillar</p>
       </section>
       <section>
         <p><strong>21:00</strong></p>
-        <p>Middle Pillar</p>
-      </section>
-      <section>
-        <p><strong>3x 5-10 Mins.</strong></p>
-        <p>Energy Work</p>
+        <p>Breathing Meditation</p>
       </section>
     </section>
   </div>
