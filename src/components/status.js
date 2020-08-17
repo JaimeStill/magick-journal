@@ -8,7 +8,7 @@ const Status = () => (
       <strong>Currently Reading</strong>: 1 - 2 Hours per Day
     </p>
     <div className={styles.reading}>
-      <p><a href="https://www.amazon.com/High-Magick-Guide-Spiritual-Practices/dp/1683641345" target="_blank" rel="noreferrer">High Magick</a> by Damien Echols</p>
+      <p><a href="https://www.indiebound.org/book/9781683643265" target="_blank" rel="noreferrer">Angels & Archangels</a> by Damien Echols</p>
       <p><a href="https://www.amazon.com/Modern-Magick-Twelve-Lessons-Magickal/dp/0738715786" target="_blank" rel="noreferrer">Modern Magick</a> by Donald Michael Kraig</p>
     </div>
     <section className={styles.grid}>
