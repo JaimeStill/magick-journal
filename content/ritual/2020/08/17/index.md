@@ -33,3 +33,13 @@ During today's ritual, I ended up in the tower courtyard at first Qabalistic Cro
 > "Focus on building your energy that you may use it to love others. In time, you will grow to know me."
 
 With this, I sat with the presence and spent the entire connected state of Middle Pillar raising and sending energy. I raised and sent more energy in this one session than I had in all of my previous energy work combined. It was absolutely exhilarating. When I finished, I felt like I used a lot of energy, but I was not spent. I feel extremely fulfilled and ready to have an excellent time with **FAM** tonight.
+
+# Notes
+
+![angels-and-archangels](./angels-and-archangels.jpg)
+
+I wanted to capture what I posted in the Damien Echols' Patreon Community today:
+
+> Today marks a month since I dove headfirst into learning and practicing magick every day. The amount of growth has been just incredible, and I cannot thank this community enough. You all are truly a treasure. Over the weekend, I finished reading *High Magick* and performed my first full LBRP. I'm sure I'll reference that book countless times still, but now that I've started invoking archangels, I'm excited to learn more through *Angels and Archangels*.
+>
+> Thank you all for being not just amazing friends, but **FAM**.
