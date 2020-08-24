@@ -16,7 +16,7 @@ published: true
 
 ![float-room](./float-room.jpg)
 
-I turned all of the lighting and sounds off in the immersion tank. After I settled in and found my center, I was feeling really crazy vibrations on the surface of my skin around my whole body. It was a really uneasy sort of vibration, but I pushed through my initial feelings pf anxiousness and performed the middle pillar.
+I turned all of the lighting and sounds off in the immersion tank. After I settled in and found my center, I was feeling really crazy vibrations on the surface of my skin around my whole body. It was a really uneasy sort of vibration, but I pushed through my initial feelings of anxiousness and performed the middle pillar.
 
 During the middle pillar, my conscious body was levitating in the tower courtyard I encounter during LBRP, tethered above by the divine energy. When I connected to the Earth’s energy after charging all of the energy spheres, I felt the uneasy vibrations begin to break loose.
 
